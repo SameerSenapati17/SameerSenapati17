@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Explorer;Full+Stack+Web+Developer;Building+End-to-End+ML+Projects;Tech+Stack+Craftsman" alt="Typing SVG"/>
 </div>
 <div align="center">
-  <img align="right" width="470" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+  <img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </div>
 
 ```python
