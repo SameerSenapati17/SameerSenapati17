@@ -44,10 +44,12 @@ class SameerSenapati:
 </td>
 </tr>
 <tr>
-<td colspan=2 align="center">
+<td>
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=SameerSenapati17&theme=midnight-purple&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerSenapati17&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</td> 
+</td>
+  <td>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerSenapati17&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  </td>
 </tr></table>
 </div>
 
