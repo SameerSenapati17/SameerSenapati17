@@ -1,81 +1,83 @@
-<h2 align="left">Hi 👋! I’m Sameer Senapati — a Machine Learning Enthusiast passionate about building intelligent systems with real-world impact.</h2>
+<div align="center">
+  <h1>✨ Hi there!, I'm <strong>Sameer Senapati</strong> ✨</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Explorer;Full+Stack+Web+Developer;Building+End-to-End+ML+Projects;Tech+Stack+Craftsman" alt="Typing SVG"/>
+</div>
+<div align="center">
+  <img align="right" width="470" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+</div>
 
-###
+```python
+class SameerSenapati:
+    def __init__(self):
+        self.name = "Sameer Senapati"
+        self.role = "Machine Learning Enthusiast"
+        self.location = "India"
+        self.languages = ["Python", "JavaScript", "TypeScript", "C++"]
+        self.interests = ["AI/ML", "Data Science", "Web Development"]
+        self.learning = ["Deep Learning", "MLOps", "Cloud"]
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+```
+
+<br clear="both"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-110-blue?style=for-the-badge&logo=github" height="40"/>
+  <a href="https://instagram.com/beingsameer1.7">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/sameer-senapati-759b0528a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/justsameer17">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:sameersenapati1709@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+<br>
+<div align="center">
+<table><tr>
+<td colspan=2 align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SameerSenapati17&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"/>
+</td>
+</tr>
+<tr>
+<td colspan=2 align="center">
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=SameerSenapati17&theme=midnight-purple&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerSenapati17&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</td> 
+</tr></table>
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SameerSenapati17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=SameerSenapati17&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SameerSenapati17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<table>
+  <tr>
+    <!-- First column with fixed width -->
+    <td width="350" align="center" valign="middle">
+        <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs&size=90" /><br/>
+        <img src="https://skillicons.dev/icons?i=express,html,css,python&size=90" /><br/>
+        <img src="https://skillicons.dev/icons?i=cpp,flask,git,github&size=90" /><br/>
+        <img src="https://skillicons.dev/icons?i=mysql,sqlite,anaconda&size=90" />
+    </td>
+    <td>
+      <img src="https://private-user-images.githubusercontent.com/201450178/476145468-fa5dbf73-a37a-4bf7-8809-2276370d1fb9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ2Nzg5NTMsIm5iZiI6MTc1NDY3ODY1MywicGF0aCI6Ii8yMDE0NTAxNzgvNDc2MTQ1NDY4LWZhNWRiZjczLWEzN2EtNGJmNy04ODA5LTIyNzYzNzBkMWZiOS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgwOFQxODQ0MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05N2Y4OGQ5ODI0ZThkMTg0ODA5NDI1NzM2ZTgwM2M5ODBmZjIxYTczYTNlNzQxMTAwM2U1YjI1ZTMzZjI5ZmZlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.cPPdzj3t1RVcuASjziu2eHZIs19LeFawKzf19jXy4ss" width="500" height="700" />
+    </td>
+  </tr>
+</table>
 </div>
 
-###
-
-<br clear="both">
-
-<img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxpMGE1eXp5Z2hucmVlOWcxYXAycWJmaHM1c2VmcGY0ZWRnZ2R2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gLZ32bMP5pY52PBsm/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50" alt="amazonwebservices logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="50" alt="kaggle logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo"  />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SameerSenapati17&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4"/>
+</div>
+</br>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
 
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://instagram.com/beingsameer1.7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https;//discord.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="sameersenapati1709@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/sameer-senapati-759b0528a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/justsameer17" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/SameerSenapati17/SameerSenapati17/output/snake.svg" alt="Snake animation" />
+</div>
 
-###
+
