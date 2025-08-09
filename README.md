@@ -64,7 +64,7 @@ class SameerSenapati:
         <img src="https://skillicons.dev/icons?i=mysql,sqlite,anaconda&size=90" />
     </td>
     <td>
-      <img src="https://private-user-images.githubusercontent.com/201450178/476145468-fa5dbf73-a37a-4bf7-8809-2276370d1fb9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ2Nzg5NTMsIm5iZiI6MTc1NDY3ODY1MywicGF0aCI6Ii8yMDE0NTAxNzgvNDc2MTQ1NDY4LWZhNWRiZjczLWEzN2EtNGJmNy04ODA5LTIyNzYzNzBkMWZiOS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgwOFQxODQ0MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05N2Y4OGQ5ODI0ZThkMTg0ODA5NDI1NzM2ZTgwM2M5ODBmZjIxYTczYTNlNzQxMTAwM2U1YjI1ZTMzZjI5ZmZlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.cPPdzj3t1RVcuASjziu2eHZIs19LeFawKzf19jXy4ss" width="500" height="700" />
+      <img src="https://raw.githubusercontent.com/SameerSenapati17/SameerSenapati17/main/Kisuke%20Urahara%20Eye%20GIF%20by%20Xbox.gif" width="500" height="700" />
     </td>
   </tr>
 </table>
